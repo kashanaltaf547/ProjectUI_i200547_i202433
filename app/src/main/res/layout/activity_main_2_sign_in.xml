@@ -178,7 +178,6 @@
             android:contentDescription="SignIn Button"
             android:id="@+id/v15"
             android:layout_below="@id/v14"
-            android:layout_marginRight="10dp"
             android:backgroundTint="@color/white"/>
 
     </LinearLayout>
